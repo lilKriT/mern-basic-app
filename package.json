@@ -4,7 +4,8 @@
   "description": "A basic app made in MERN. Following PedroTech.\r Created by lilKriT.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server/server.js"
   },
   "repository": {
     "type": "git",
